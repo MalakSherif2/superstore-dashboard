@@ -22,7 +22,8 @@ This dashboard analyzes sales and profitability for a retail superstore.
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard]<img width="1244" height="702" alt="image" src="https://github.com/user-attachments/assets/54d943f4-f317-486e-9af1-cdc2a333a85b" />
+
 
 ## 🚀 Author
 
