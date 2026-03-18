@@ -43,7 +43,7 @@ It provides insights into sales, profit, customer segments, shipping modes, and 
 superstore-analysis/
 │
 ├── dashboard.pbix
-├── dashboard.png
+├── dashboard.jpeg
 ├── README.md
 └── insights.md
 
